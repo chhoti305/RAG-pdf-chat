@@ -1,0 +1,4 @@
+[
+  {"question": "Replace with a question about your PDF", "source": "your_file.pdf", "page": 1},
+  {"question": "Replace with another question", "source": "your_file.pdf", "page": 3}
+]
